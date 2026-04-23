@@ -178,7 +178,7 @@ No. Onyx Pro is an independent utility developed by XTRA Tweaks LLC and is not a
 
 ## Community and support
 
-- Discord: [discord.gg/SW83FxMm6J](https://discord.gg/chlo)
+- Discord: [discord.gg/chlo](https://discord.gg/chlo)
 - Email support through the website
 - Changelogs are posted in Discord and on the site for every release
 
