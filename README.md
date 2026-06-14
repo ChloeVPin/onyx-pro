@@ -13,10 +13,6 @@ Onyx Pro is a local desktop app for Windows and Linux that clears supported tria
 ![Pricing](https://img.shields.io/badge/one--time%20payment-from%20%247-e4f222?style=for-the-badge&labelColor=0a0a0a)
 ![Trial](https://img.shields.io/badge/free%20trial-available-e4f222?style=for-the-badge&labelColor=0a0a0a)
 
-<p align="center">
-  <img src="./assets/hero-dashboard.png" alt="Onyx Pro dashboard showing reset tools for Kiro, Trae, Warp, Antigravity, Qoder beta, and Codex support" width="100%" />
-</p>
-
 ## What it does
 
 Onyx Pro runs locally on your machine. It clears supported trial-related state in AI coding IDEs so you can re-run onboarding and evaluation flows on the same computer before you buy.
