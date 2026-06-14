@@ -1,4 +1,4 @@
-# Onyx Pro
+<h1 align="center">Onyx Pro</h1>
 
 <p align="center">
   <img src="./assets/og-image-v1024.jpg" alt="Onyx Pro share image" width="100%" />
