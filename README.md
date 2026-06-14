@@ -1,5 +1,9 @@
 # Onyx Pro
 
+<p align="center">
+  <img src="./assets/og-image-v1024.jpg" alt="Onyx Pro share image" width="100%" />
+</p>
+
 Onyx Pro is a local desktop app for Windows and Linux that clears supported trial state for Kiro, Trae, Warp, Antigravity, and Qoder beta, and manages Codex accounts on Windows.
 
 [Website](https://getonyxpro.com) | [Downloads](https://getonyxpro.com/downloads) | [Pricing](https://getonyxpro.com/#pricing) | [Discord](https://discord.gg/chlo)
