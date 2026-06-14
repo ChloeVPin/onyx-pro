@@ -63,7 +63,7 @@ No. Onyx Pro does not unlock paid features, bypass licensing, distribute third-p
 <summary>Which tools are included right now?</summary>
 
 ```text
-Kiro, Trae, Warp, Antigravity, and Qoder beta are supported as reset tools. Codex is supported as a local account manager on Windows. Windsurf support was removed after its rebranding to Devin Desktop and the end of free trials.
+Kiro, Trae, Warp, Antigravity, and Qoder beta are supported as reset tools. Codex is supported as a local account manager on Windows.
 ```
 </details>
 
@@ -79,7 +79,7 @@ Not currently. Onyx Pro supports Windows 10 and 11 with a single Windows install
 <summary>Is Onyx Pro affiliated with any IDE vendor?</summary>
 
 ```text
-No. Onyx Pro is an independent utility developed by CCC Suite and is not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Qoder, Codex, Devin Desktop, or their owners.
+No. Onyx Pro is an independent utility developed by CCC Suite and is not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Qoder, Codex, or their owners.
 ```
 </details>
 
@@ -98,7 +98,7 @@ No. Onyx Pro is an independent utility developed by CCC Suite and is not affilia
 
 ## Disclaimer
 
-Independent utility. Not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Qoder, Codex, Devin Desktop, or their owners.
+Independent utility. Not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Qoder, Codex, or their owners.
 
 Use is your responsibility and may be subject to the terms, licenses, and laws that apply to the software you choose to test.
 
