@@ -54,25 +54,33 @@ Onyx Pro runs locally on your machine. It clears supported trial-related state i
 <details>
 <summary>Is Onyx Pro a crack, keygen, or piracy tool?</summary>
 
+```text
 No. Onyx Pro does not unlock paid features, bypass licensing, distribute third-party software, or generate keys. It resets supported local trial-related state on your own machine.
+```
 </details>
 
 <details>
 <summary>Which tools are included right now?</summary>
 
+```text
 Kiro, Trae, Warp, Antigravity, and Qoder beta are supported as reset tools. Codex is supported as a local account manager on Windows. Windsurf support was removed after its rebranding to Devin Desktop and the end of free trials.
+```
 </details>
 
 <details>
 <summary>Does Onyx Pro support Mac?</summary>
 
+```text
 Not currently. Onyx Pro supports Windows 10 and 11 with a single Windows installer and Linux via DEB package.
+```
 </details>
 
 <details>
 <summary>Is Onyx Pro affiliated with any IDE vendor?</summary>
 
+```text
 No. Onyx Pro is an independent utility developed by CCC Suite and is not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Qoder, Codex, Devin Desktop, or their owners.
+```
 </details>
 
 ## Support
