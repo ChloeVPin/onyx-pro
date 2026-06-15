@@ -4,7 +4,7 @@
   <img src="./assets/og-image-v1024.jpg" alt="Onyx Pro share image" width="100%" />
 </p>
 
-Onyx Pro is a local desktop app for Windows and Linux that clears supported trial state for Kiro, Trae, Warp, Antigravity, and Qoder beta, and manages Codex accounts on Windows.
+Onyx Pro is a local desktop app for Windows and Linux that clears supported trial state for Kiro, Trae, Warp, and Antigravity, and manages Codex accounts on Windows.
 
 [Website](https://getonyxpro.com) | [Downloads](https://getonyxpro.com/downloads) | [Pricing](https://getonyxpro.com/#pricing) | [Discord](https://discord.gg/chlo)
 
@@ -17,7 +17,6 @@ Onyx Pro is a local desktop app for Windows and Linux that clears supported tria
 
 Onyx Pro runs locally on your machine. It clears supported trial-related state in AI coding IDEs so you can re-run onboarding and evaluation flows on the same computer before you buy.
 
-- Qoder beta support is included
 - Codex account management is available on Windows
 - Windows now uses a single auto-detect installer
 - Linux downloads are DEB packages for x64 and ARM64
@@ -31,7 +30,6 @@ Onyx Pro runs locally on your machine. It clears supported trial-related state i
 | Trae        | Reset           | Windows, Linux     | Included in the free trial        |
 | Warp        | Reset           | Windows, Linux     | Included in the free trial        |
 | Antigravity | Reset           | Windows, Linux     | Included in the free trial        |
-| Qoder       | Reset beta      | Windows, Linux     | Included in the free trial        |
 | Codex       | Account manager | Windows            | Requires a paid license           |
 
 ## Downloads
@@ -63,7 +61,7 @@ No. Onyx Pro does not unlock paid features, bypass licensing, distribute third-p
 <summary>Which tools are included right now?</summary>
 
 ```text
-Kiro, Trae, Warp, Antigravity, and Qoder beta are supported as reset tools. Codex is supported as a local account manager on Windows.
+Kiro, Trae, Warp, and Antigravity are supported as reset tools. Codex is supported as a local account manager on Windows.
 ```
 </details>
 
@@ -79,7 +77,7 @@ Not currently. Onyx Pro supports Windows 10 and 11 with a single Windows install
 <summary>Is Onyx Pro affiliated with any IDE vendor?</summary>
 
 ```text
-No. Onyx Pro is an independent utility developed by CCC Suite and is not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Qoder, Codex, or their owners.
+No. Onyx Pro is an independent utility developed by CCC Suite and is not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Codex, or their owners.
 ```
 </details>
 
@@ -98,7 +96,7 @@ No. Onyx Pro is an independent utility developed by CCC Suite and is not affilia
 
 ## Disclaimer
 
-Independent utility. Not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Qoder, Codex, or their owners.
+Independent utility. Not affiliated with or endorsed by Kiro, Trae, Warp, Antigravity, Codex, or their owners.
 
 Use is your responsibility and may be subject to the terms, licenses, and laws that apply to the software you choose to test.
 
